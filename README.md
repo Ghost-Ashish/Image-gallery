@@ -14,30 +14,13 @@ This is a responsive Image Gallery web project built using **HTML**, **CSS**, an
   * **Animals** (15+ images)
   * **City** (15+ images)
 * 🖱️ Hover zoom effect
-* 🧭 Click an image to show a **Download button**
-* 📥 Images can be downloaded individually
-
 ---
 
 ##  Tech Stack
 
 * **HTML5** - Page structure
 * **CSS3** - Styling and transitions
-* **JavaScript** - Interactions and toggling download buttons
-
----
-
-## 🗂️ Folder Structure
-
-```
-image-gallery/
-├── index.html        # Main HTML file
-├── style.css         # Styling (can be inline or separate)
-├── script.js         # JavaScript (optional)
-└── README.md         # Project info
-```
-
----
+* **JavaScript** - Interactions and toggling download button---
 
 ## ▶️ How to Use
 
