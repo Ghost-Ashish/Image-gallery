@@ -5,7 +5,7 @@ This is a responsive Image Gallery web project built using **HTML**, **CSS**, an
 
 ---
 
-## ✅ Features
+## Features
 
 * 🌐 Responsive layout for mobile, tablet, and desktop
 * 🖼️ Image gallery divided into three categories:
@@ -19,7 +19,7 @@ This is a responsive Image Gallery web project built using **HTML**, **CSS**, an
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **HTML5** - Page structure
 * **CSS3** - Styling and transitions
@@ -60,9 +60,3 @@ image-gallery/
 ## 📄 License
 
 This is a free and open-source project. Use it for learning or customize it for your own needs.
-
----
-
-## 🙋‍♂️ Questions?
-
-Feel free to ask for customization, deployment help, or enhancements!
